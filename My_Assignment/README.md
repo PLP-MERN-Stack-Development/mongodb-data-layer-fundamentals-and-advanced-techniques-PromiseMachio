@@ -7,7 +7,9 @@ My assignment has the following flow to meet the instructors demand.
 ## File structure
 ________________________________________
 week1_assignment/
+
 │____________________________________________________________
+
 ├── Models/
     |
     └── books.js
