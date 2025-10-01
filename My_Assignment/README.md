@@ -5,14 +5,15 @@ My assignment has the following flow to meet the instructors demand.
 ### Machio Promise Arauna.
 
 ## File structure
+________________________________________
 week1_assignment/
-│
+│____________________________________________________________
 ├── Models/
 │   └── books.js
-│
+│____________________________________________________________
 ├── node_modules/
 ├── Screenshot/
-│
+│____________________________________________________________
 ├── connect.js
 ├── execute.js
 ├── indexing.js
