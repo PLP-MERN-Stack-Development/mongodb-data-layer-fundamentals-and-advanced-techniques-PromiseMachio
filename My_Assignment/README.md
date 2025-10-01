@@ -5,35 +5,26 @@ My assignment has the following flow to meet the instructors demand.
 ### Machio Promise Arauna.
 
 ## File structure
-________________________________________
-week1_assignment/
+    ________________________________________
+    week1_assignment/
+     ├── Models/
+           └── books.js
+     ├── node_modules/
+     ├── Screenshot/
 
-│____________________________________________________________
-
-├── Models/
-    |
-    └── books.js
-│____________________________________________________________
-
-├── node_modules/
-├── Screenshot/
-
-
-│____________________________________________________________
-
-├── connect.js
-|
-├── execute.js
-|
-├── indexing.js
-|
-├── pipelines.js
-|
-├── query.js
-|
-├── README.md
-|
-└── .env
+     ├── connect.js
+     |
+     ├── execute.js
+     |
+     ├── indexing.js
+     |
+     ├── pipelines.js
+     |
+     ├── query.js
+     |
+     ├── README.md
+     |
+     └── .env
 
 
 ## Meeting objectives.
