@@ -4,11 +4,11 @@ My assignment has the following flow to meet the instructors demand.
 ## Student
 ### Machio Promise Arauna.
 
-## File structures
-  week1_assignment/
+## File structure
+week1_assignment/
 │
 ├── Models/
-│ └── books.js
+│   └── books.js
 │
 ├── node_modules/
 ├── Screenshot/
@@ -20,6 +20,7 @@ My assignment has the following flow to meet the instructors demand.
 ├── query.js
 ├── README.md
 └── .env
+
 
 ## Meeting objectives.
 I went deep in every file making sure all the instructors instructions were met. 
