@@ -8,12 +8,16 @@ My assignment has the following flow to meet the instructors demand.
   week1_assignment files.
  ____________________________
 |*Models
+
         |
         |
          ---books.js
-|*node_modules     
+|*node_modules  
+
 |
 |*Screenshot 
+
+
 |
 |___
     |---connect.js
@@ -22,6 +26,7 @@ My assignment has the following flow to meet the instructors demand.
     |---pipelines.js
     |---query.js
      ---README.md
+
 
 ## Meeting objectives.
 I went deep in every file making sure all the instructors instructions were met. 
@@ -62,6 +67,7 @@ https://github.com/PromiseMachio/week1_mern.git
 
 ## How to run the code,
 In your terminal run
+
 -node excecute.js
 
 -node indexing.js
