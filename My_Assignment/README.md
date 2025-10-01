@@ -63,5 +63,7 @@ https://github.com/PromiseMachio/week1_mern.git
 ## How to run the code,
 In your terminal run
 -node excecute.js
+
 -node indexing.js
+
 -node pipelines.js
