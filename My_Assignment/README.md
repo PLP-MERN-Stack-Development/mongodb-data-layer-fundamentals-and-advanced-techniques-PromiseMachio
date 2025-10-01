@@ -81,3 +81,5 @@ In your terminal run
 -node indexing.js
 
 -node pipelines.js
+
+-node query.js
